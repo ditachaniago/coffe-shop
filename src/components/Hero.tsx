@@ -37,7 +37,7 @@ export const Hero: React.FC<HeroProps> = ({ darkMode }) => {
         </div>
 
         {/* Large Title & Slogan */}
-        <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-black tracking-tight text-white max-w-5xl leading-[1.1] mb-6 drop-shadow-2xl">
+        <h1 className="font-serif text-3xl md:text-7xl lg:text-8xl font-black tracking-tight text-white max-w-5xl leading-[1.1] mb-6 drop-shadow-2xl">
           Where <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#c8a272] via-[#e6dec9] to-[#c26d53] italic">Artisan Craft</span> Meets Exquisite Comfort.
         </h1>
 
